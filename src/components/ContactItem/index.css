@@ -1,0 +1,14 @@
+.table-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: yellow;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.icons {
+  margin-right: 20px;
+}
